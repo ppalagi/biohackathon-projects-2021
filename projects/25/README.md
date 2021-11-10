@@ -12,8 +12,6 @@ The goal of the proposed project is to build on and consolidate efforts around m
 ## Topics
 
 Bioschemas
-Galaxy
-Interoperability Platform
 Training Platform
 
 **Project Number:** 25
@@ -26,7 +24,7 @@ Training Platform
 
 ### Lead(s)
 
-patricia.palagi@sib.swiss
+[Patricia Palagi](mailto:patricia.palagi@sib.swiss), [Allegra Via](mailto:allegra.via@gmail.com), [Melissa Burke](mailto:melissa@biocommons.org.au), [Celia van Gelder](mailto:celia.van.gelder@dtls.nl).
 
 ## Expected outcomes
 
@@ -39,5 +37,5 @@ patricia.palagi@sib.swiss
 - Nodes: Key nodes include CH, IT, NL, GR, EBI, LU, UK, DE, SE, ES, but all Nodes and non-ELIXIR participants are welcome.
 - People: 5+
 
-**Number of expected hacking days**: 3 days
+**Number of expected hacking days**: 4 days
 
